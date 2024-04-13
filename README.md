@@ -7,6 +7,8 @@
 ## Documentation
 - [Why Go?](/docs/1-why-go.md)
 - [Variables](/docs/2-variables.md)
+- [Functions](/docs/3-functions.md)
 
-## Scripts
-- [hello.go](/scripts/hello.go)
+## Packages
+- [hello.go](/scripts/hello/hello.go)
+- [greetings.go](/scripts/greetings/greetings.go)
