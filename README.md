@@ -5,7 +5,8 @@
 - [Scripts](#scripts)
 
 ## Documentation
-- [Go Notes](/docs/go-notes.md)
+- [Why Go?](/docs/1-why-go.md)
+- [Variables](/docs/2-variables.md)
 
 ## Scripts
 - [hello.go](/scripts/hello.go)
