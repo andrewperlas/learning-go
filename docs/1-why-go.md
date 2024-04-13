@@ -1,6 +1,5 @@
-# Go Notes
+# Why Go?
 
-## Why Go?
 - Go code generally runs faster than interpreted languages and compiles faster than other compiled languages
     - Interpreted language examples: Python, Javascript
     - Compiled language examples: C, C++, Rust
@@ -12,14 +11,3 @@
 - Go programs are lightweight on memory
     - Each program includes a small amount of "extra" code that's included in the executable binary
     - This is called "Go Runtime" and a purpose of it is to cleanup unused memory at runtime
-
-## Variables
-- Basic variable types
-    - `bool`
-    - `string`
-    - `int`
-        - `rune` (alias for `int32`)
-    - `uint`
-        - `byte` (alias for `uint8`)
-    - `float`
-    - `complex`
